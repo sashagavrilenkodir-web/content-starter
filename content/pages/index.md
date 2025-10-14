@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      We create unforgettable weddings in France and Paris, elegant, personal,
+      and filled with meaning. From breathtaking venues to flawless
+      coordination, we bring your dream celebration to life in the heart of
+      romance.
     actions:
       - label: Get started
         altText: ''
