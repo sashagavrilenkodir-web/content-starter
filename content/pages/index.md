@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Make the mariage of your dreams in France
+      text: Make the marriage of your dreams in France
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
