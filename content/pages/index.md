@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/1155-TTG06760-1024x1536.jpg.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
