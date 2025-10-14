@@ -7,7 +7,7 @@ sections:
       text: Make the marriage of your dreams in France
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Planning your dream wedding in France or Paris?
     text: >
       We create unforgettable weddings in France and Paris, elegant, personal,
       and filled with meaning. From breathtaking venues to flawless
