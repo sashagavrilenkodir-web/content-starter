@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Make the marriage of your dreams in France
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
