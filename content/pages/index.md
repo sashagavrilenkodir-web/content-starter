@@ -23,7 +23,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Results
+      - label: Check spots
         altText: ''
         url: /
         showIcon: true
