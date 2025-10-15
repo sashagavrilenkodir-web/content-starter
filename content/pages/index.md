@@ -234,7 +234,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: 'Château de Tourrettes, Provence'
+      text: We appreciate the opinion of our clients.
       color: text-dark
       styles:
         self:
