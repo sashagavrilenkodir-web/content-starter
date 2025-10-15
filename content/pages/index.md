@@ -237,7 +237,7 @@ sections:
       text: >-
         "It was like stepping into a dream. Every detail reflected us —
         Alexandra and her team made the whole journey peaceful, magical, and
-        full of joy.
+        full of joy."
       color: text-dark
       styles:
         self:
