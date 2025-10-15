@@ -66,7 +66,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Venue Scouting & Design
-        subtitle: _
+        subtitle: ''
         text: >
           From romantic châteaux to modern Paris venues, we help you find the
           perfect setting.
