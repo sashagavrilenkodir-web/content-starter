@@ -38,7 +38,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Wedding planner in France & Paris
       color: text-primary
       type: Badge
     elementId: ''
