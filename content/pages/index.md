@@ -116,7 +116,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Vendor Coordination
+      - title: ''
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
