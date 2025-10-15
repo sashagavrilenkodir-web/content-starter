@@ -54,7 +54,9 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: >-
+        We offer full wedding planning and coordination services across France
+        and Paris:
       color: text-dark
       styles:
         self:
