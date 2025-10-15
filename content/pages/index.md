@@ -234,7 +234,10 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: >-
+        "It was like stepping into a dream. Every detail reflected us —
+        Alexandra and her team made the whole journey peaceful, magical, and
+        full of joy.
       color: text-dark
       styles:
         self:
