@@ -270,7 +270,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: REVIEWS
       color: text-primary
       styles:
         self:
