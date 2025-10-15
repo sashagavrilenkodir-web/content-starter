@@ -93,10 +93,16 @@ sections:
         type: FeaturedItem
       - title: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We collaborate with France’s best florists, caterers, photographers,
+          and musicians.
+
+
+          Take care of schedules, transportation, and every behind-the-scenes
+          detail.
+
+
+          So you can simply live your day, and feel present in every moment.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
