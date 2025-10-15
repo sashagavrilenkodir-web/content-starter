@@ -92,7 +92,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Creative Direction & Styling
+      - title: Vendor Coordination
         subtitle: ''
         text: >
           We design a unique aesthetic concept that tells your love story
