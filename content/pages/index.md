@@ -94,9 +94,10 @@ sections:
               borderRadius: x-large
       - title: Vendor Coordination
         subtitle: ''
-        text: >
-          We design a unique aesthetic concept that tells your love story
-          through colors, textures, and light.
+        text: >+
+          We collaborate with France’s best florists, caterers, photographers,
+          and musicians.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
