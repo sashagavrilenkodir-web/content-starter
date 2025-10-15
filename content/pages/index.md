@@ -234,10 +234,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: >-
-        "It was like stepping into a dream. Every detail reflected us —
-        Alexandra and her team made the whole journey peaceful, magical, and
-        full of joy."— Emma & Lucas, Château de Tourrettes, Provence
+      text: 'Château de Tourrettes, Provence'
       color: text-dark
       styles:
         self:
