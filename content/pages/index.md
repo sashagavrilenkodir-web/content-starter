@@ -94,10 +94,9 @@ sections:
               borderRadius: x-large
       - title: Creative Direction & Styling
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We design a unique aesthetic concept that tells your love story
+          through colors, textures, and light.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
