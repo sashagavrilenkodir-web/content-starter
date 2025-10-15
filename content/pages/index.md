@@ -241,7 +241,11 @@ sections:
           textAlign: center
           fontWeight: 400
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: |-
+      "It
+       was like stepping into a dream. Every detail reflected us — Alexandra 
+      and her team made the whole journey peaceful, magical, and full of 
+      joy."— Emma & Lucas, Château de Tourrettes, Provence
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
