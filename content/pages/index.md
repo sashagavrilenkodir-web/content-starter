@@ -65,7 +65,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Venue Scouting & Design
         subtitle: Numbers Done
         text: >
           From romantic châteaux to modern Paris venues, we help you find the
