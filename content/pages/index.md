@@ -62,7 +62,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Day-of Coordination — So you can simply live your day, and feel present in
+      every moment.
     items:
       - type: FeaturedItem
         title: Venue Scouting & Design
