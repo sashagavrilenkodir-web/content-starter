@@ -23,7 +23,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Check availiability
+      - label: Check availability
         altText: ''
         url: /
         showIcon: true
