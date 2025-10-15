@@ -89,6 +89,31 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+      - title: Vendor Coordination
+        subtitle: ''
+        text: >+
+          We collaborate with France’s best florists, caterers, photographers,
+          and musicians.
+
+        image:
+          url: /images/icon2.svg
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
       - type: FeaturedItem
         title: Venue Scouting & Design
         subtitle: ''
@@ -117,31 +142,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Vendor Coordination
-        subtitle: ''
-        text: >+
-          We collaborate with France’s best florists, caterers, photographers,
-          and musicians.
-
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
     actions:
       - label: Get started
         altText: ''
