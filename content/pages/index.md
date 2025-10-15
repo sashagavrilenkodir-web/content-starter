@@ -95,14 +95,8 @@ sections:
         subtitle: ''
         text: >
           We collaborate with France’s best florists, caterers, photographers,
-          and musicians.
-
-
-          Take care of schedules, transportation, and every behind-the-scenes
-          detail.
-
-
-          So you can simply live your day, and feel present in every moment.
+          and musicians. Take care of schedules, transportation, and every
+          behind-the-scenes detail.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
